@@ -19,7 +19,8 @@ C: \Dev-Cpp\TDM-GCC-64\bin>bison -dy expr3. y
 C: \Dev-Cpp\TDM-GCC-64\bin>gcc y. tab.c lex. yy.c -w
 C: \Dev-Cpp\TDM-GCC-64\bin>a. exe
 # Output
-![Screenshot (245)](https://github.com/user-attachments/assets/ea407f38-9ec1-4ea7-8cea-f8769982f7a0)
+![Uploading Screenshot (246).png…]()
+
 
 # Result
 A YACC program to recognize a valid variable which starts with a letter followed by any number of letters or digits is executed successfully and the output is verified.

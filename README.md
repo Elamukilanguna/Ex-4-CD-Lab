@@ -19,7 +19,8 @@ C: \Dev-Cpp\TDM-GCC-64\bin>bison -dy expr3. y
 C: \Dev-Cpp\TDM-GCC-64\bin>gcc y. tab.c lex. yy.c -w
 C: \Dev-Cpp\TDM-GCC-64\bin>a. exe
 # Output
-![Uploading Screenshot (246).png…]()
+![Screenshot (246)](https://github.com/user-attachments/assets/a5eb44f4-5b29-40f4-ba7f-2f3d0f6f92d2)
+
 
 
 # Result
